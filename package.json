@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@discordjs/rest": "^2.0.0",
+    "axios": "^1.4.0",
+    "discord.js": "^14.12.1",
+    "node-cron": "^3.0.2",
+    "random": "^4.1.0"
+  },
+  "name": "ebookdiscordbot",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
